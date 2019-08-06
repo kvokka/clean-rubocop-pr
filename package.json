@@ -1,0 +1,5 @@
+{
+  "name": "clean-rubocop-pr",
+  "private": true,
+  "dependencies": {}
+}
