@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Help to apply rubocop smoothly - 1 PR per 1 cop warning.
 
-Things you may want to cover:
+The main script is `bin/clean_rubocop_pr`, the result of this script you can
+see in:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* https://github.com/kvokka/clean-rubocop-pr/issues
+* https://github.com/kvokka/clean-rubocop-pr/pulls
